@@ -1,0 +1,4 @@
+# Windows 클론에서 줄끝이 CRLF로 바뀌면 bash 스크립트·lint 목록 파일(grep -x 비교)이 깨진다 → LF 고정
+scripts/** text eol=lf
+*.sh text eol=lf
+*.md text eol=lf

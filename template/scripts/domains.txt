@@ -1,0 +1,7 @@
+# domains.txt — 도메인 레지스트리 단일 정본 (domain-card.sh · shelf-debt.py · vault-lint.sh 가 읽는다)
+# 한 줄에 하나: <슬러그>  # 설명
+# 슬러그는 영문 소문자만 ([a-z]+). 페이지 frontmatter tags 에 domain/<슬러그> 로 단다.
+# 바꾸면 CLAUDE.md 도메인 표와 AI-Sessions/wiki/knowledge/<슬러그>/ 폴더도 함께 맞춘다.
+research    # 리서치·외부 자료 (예시 — 조직에 맞게 교체)
+work        # 업무 지식 (예시)
+aiagent     # AI 에이전트·도구·워크플로우 (예시)
